@@ -10,15 +10,25 @@
 ## Attribute Information:
 
 0: intercolumnar distance 
+<br>
 1: upper margin
+<br>
 2: lower margin
+<br>
 3: exploitation
+<br>
 4: row number
+<br>
 5: modular ratio
+<br>
 6: interlinear spacing
+<br>
 7: weight
+<br>
 8: peak number
+<br>
 9: modular ratio/ interlinear spacing
+<br>
 10 (Class): A, B, C, D, E, F, G, H, I, W, X, Y
 
 ## Tasks Performed
